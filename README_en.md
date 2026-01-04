@@ -60,16 +60,16 @@
   </a>
 </div>
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=datawhalechina/Post-training-of-LLMs&type=Date)](https://star-history.com/#datawhalechina/Post-training-of-LLMs&Date)
+
 ## Follow Us
 
 <div align=center>
 <p>Scan the QR code below to follow our WeChat Official Account: Datawhale</p>
 <img src="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg" width = "180" height = "180">
 </div>
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=datawhalechina/Post-training-of-LLMs&type=Date)](https://star-history.com/#datawhalechina/Post-training-of-LLMs&Date)
 
 ## License
 
