@@ -1,6 +1,8 @@
 <div align=center><h1>Post-Training of LLMs</h1></div>
 
-<div align="center">[中文](./README.md) | English</div>
+<div align="center">
+<a href="README.md">中文</a> | English
+</div>
 
 &emsp;&emsp;This project is built around the Post-Training for LLMs course series produced by DeepLearning.AI, providing Chinese translation and knowledge organization tutorials. We offer course content translation, knowledge point organization, and example code, aiming to lower language barriers and help students, researchers, and developers systematically master the core technologies and practical methods of the post-training phase of Large Language Models (LLMs).
 

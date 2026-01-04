@@ -1,6 +1,8 @@
 <div align=center><h1>Post-Training of LLMs</h1></div>
 
-<div align="center">中文 | [English](README_en.md)</div>
+<div align="center">
+中文 | <a href="README_en.md">English</a>
+</div>
 
 &emsp;&emsp;本项目围绕 DeepLearning.AI 出品的 Post-Training for LLMs 系列课程打造中文翻译与知识整理教程。我们提供课程内容翻译、知识点梳理和示例代码，旨在降低语言门槛，帮助学生、研究人员和开发者系统掌握大语言模型（LLM）后训练阶段的核心技术与实践方法。
 
