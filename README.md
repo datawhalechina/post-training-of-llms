@@ -1,20 +1,18 @@
-# Post-Training of LLMs
+<div align=center><h1>Post-Training of LLMs</h1></div>
 
-## 项目简介
-本项目围绕 DeepLearning.AI 出品的 Post-Training for LLMs 系列课程打造中文翻译与知识整理教程。我们提供课程内容翻译、知识点梳理和示例代码，旨在降低语言门槛，帮助学生、研究人员和开发者系统掌握大语言模型（LLM）后训练阶段的核心技术与实践方法。
+<div align="center">中文 | [English](./README_en.md)</div>
 
-**在线视频课程地址：** [DeepLearning.AI - Post-training of LLMs](https://www.deeplearning.ai/short-courses/post-training-of-llms/)
+&emsp;&emsp;本项目围绕 DeepLearning.AI 出品的 Post-Training for LLMs 系列课程打造中文翻译与知识整理教程。我们提供课程内容翻译、知识点梳理和示例代码，旨在降低语言门槛，帮助学生、研究人员和开发者系统掌握大语言模型（LLM）后训练阶段的核心技术与实践方法。
 
-## 项目受众
-- 对 LLM 优化与落地应用感兴趣的学习者。
-- 希望深入理解并掌握模型后训练方法的同学与研究者。
-- 计划结合后训练技术打造领域专用模型的团队与开发者。
-- 正在寻找系统化学习资源的在校学生与入门者。
+&emsp;&emsp;**在线视频课程地址：** [DeepLearning.AI - Post-training of LLMs](https://www.deeplearning.ai/short-courses/post-training-of-llms/)
 
-## 项目亮点
-1. **权威课程，本土化翻译**：精准翻译 DeepLearning.AI 官方前沿课程，打破语言壁垒，为国内学习者提供原汁原味且易于理解的 LLM 后训练核心知识。
-2. **系统梳理后训练核心技术**：聚焦 SFT、DPO、Online RL 等关键环节，将碎片知识系统化，帮助学习者构建从理论到实践的完整知识体系。
-3. **理论与实践并重**：提供配套可运行的代码示例，强化动手能力，确保学习者不仅能“看懂”，更能“上手”，为开发领域专用模型打下基础。
+&emsp;&emsp;本项目的主要内容包括：1. 监督微调（SFT）的基础理论与实践应用，帮助学习者掌握如何通过有监督的方式对预训练模型进行精细化调整；2. 直接偏好优化（DPO）技术的深入解析，包括理论基础和实际操作指导；3. 在线强化学习（Online RL）在大模型后训练中的应用，涵盖从基础概念到高级实践的全流程内容；4. 完整的代码示例和实践项目，确保学习者能够将理论知识转化为实际应用能力。
+
+&emsp;&emsp;**项目的主要目标是让更多的学生、研究者和开发者能够系统性地学习和掌握大语言模型后训练的核心技术！任何人都可以提出 issue 或是提交 PR，共同构建维护这个项目。**
+
+&emsp;&emsp;想要深度参与的同学可以联系我们，我们会将你加入到项目的维护者中。
+
+> &emsp;&emsp;***学习建议：本项目的学习建议是，先学习监督微调（SFT）的基础理论，然后学习直接偏好优化（DPO）技术，最后深入在线强化学习（Online RL）的应用。因为 SFT 是后训练的基础，DPO 是进阶技术，Online RL 是高级应用。初学者建议按照课程顺序循序渐进地学习。***
 
 ## 项目规划
 #### 1、目录
@@ -49,7 +47,6 @@
 
 
 ## 致谢
-
 
 - 特别感谢 [@Datawhale](https://github.com/datawhalechina) 对本项目的支持
 - 如果有任何想法可以联系我们，也欢迎大家多多提出 issue

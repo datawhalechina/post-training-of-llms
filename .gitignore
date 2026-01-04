@@ -1,3 +1,9 @@
 .cursor/
 .cursorrules
 .cursorrules.json
+
+# Kiro specs (requirements, design, tasks)
+.kiro/
+
+# Ignore this gitignore file itself
+.gitignore
